@@ -1,0 +1,5 @@
+name: error
+on: push
+jobs:
+  err-action:
+    run-on: ubuntu-latest
